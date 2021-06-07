@@ -1,0 +1,51 @@
+
+
+.mission-image {
+ object-position: 25%;
+  object-position: center;
+    width: 56%;
+    height: 56%;
+    margin-left: auto;
+}
+
+.card_front{
+  align-items: center;
+  margin-left: auto;
+  padding-left: 20%;
+}
+
+.card {
+  border: 0px solid #ccc;
+  box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+  border: 2mm;
+  display: grid;
+  grid-template-columns: 0fr 0fr 0fr;
+  grid-gap: 2px;
+  align-items: center;
+  float:left;
+    width:300px;
+    height:350px;
+    margin: 0.1px 0.1px 0.01px 2px;
+    column-gap: 40px;
+  row-gap: 50px;
+}
+    
+.speech
+{
+ text-align: justify;
+color: black;
+line-height: 0.8;
+text-decoration: wavy;
+
+
+}
+
+
+.body{
+font-family:Arial, Helvetica, sans-serif;
+}
+
+
+  
+  
+  

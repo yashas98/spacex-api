@@ -1,0 +1,33 @@
+.body {
+    background-color: #F2F2F2 !important;
+  }
+  
+  .App {
+    background-color: #F2F2F2;
+  }
+  
+  
+  
+  .App-logo {
+    height: 40vmin;
+    pointer-events: none;
+  }
+  
+ 
+  
+  .App-header {
+    position: inherit;
+    display: flex;
+    flex-direction: column;
+    font-size: calc(22px + 2vmin);
+    color: #0A0A0A;
+    padding-left: 16px;
+  }
+  
+ 
+  
+  
+  
+  
+  
+  
